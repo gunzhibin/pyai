@@ -3,7 +3,7 @@
 
 from wxpy import *
 
-# 扫码登陆
+# 扫码登s
 bot = Bot()
 
 # 初始化图灵机器人 (API key 申请: http://tuling123.com)
